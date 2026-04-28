@@ -1,0 +1,13 @@
+{
+  "name": "MasteryEd Premium Learning",
+  "description": "A high-end educational platform for digital marketers and creative entrepreneurs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "LMS",
+    "Coaching",
+    "Payments"
+  ]
+}
